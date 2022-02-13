@@ -14,6 +14,9 @@ github_username: Chris-Has
 email:
 twitter_username:
 
+permalink: /:collection/:year-:month-:day-:title:output_ext
+show_excerpts: true
+
 # Set this to true to get LaTeX math equation support
 use_math:
 
