@@ -1,13 +1,13 @@
 # Installing fastai (CPU) on windows 10
 
-Step 1: Install Anaconda\
+<b>Step 1:</b> Install Anaconda\
 &emsp; Default settings are fine\
-Step 2: Create conda environment\
+<b>Step 2:</b> Create conda environment\
 &emsp; ```conda create -n fastai```\
-Step 3: Activate conda environment\
+<b>Step 3:</b> Activate conda environment\
 &emsp; ```activate fastai```\
-Step 4: Install fastai and pytorch\
+<b>Step 4:</b> Install fastai and pytorch\
 &emsp;  ```conda install -c fastai -c pytorch fastai```\
-Step 5: Test installation\
+<b>Step 5:</b> Test installation\
 &emsp; Use example from first lesson
 
