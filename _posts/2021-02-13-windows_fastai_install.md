@@ -1,7 +1,7 @@
 # Installing fastai (CPU) on windows 10
 
 Step 1: Install Anaconda\
-- Default settings are fine\
+ Default settings are fine\
 Step 2: Create conda environment\
 ```conda create -n fastai```\
 Step 3: Activate conda environment\
