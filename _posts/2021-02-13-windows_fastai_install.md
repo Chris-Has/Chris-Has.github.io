@@ -5,7 +5,7 @@ Step 1: Install Anaconda\
 Step 2: Create conda environment\
 +```conda create -n fastai```\
 Step 3: Activate conda environment\
-```activate fastai```\
+ - ```activate fastai```\
 Step 4: Install fastai and pytorch\
  ```conda install -c fastai -c pytorch fastai```\
  Step 5: Test installation\
