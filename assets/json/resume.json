@@ -3,58 +3,58 @@
     "name": "Albert Einstein",
     "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chrisdh08@gmail.com",
+    "phone": "",
+    "url": "https://Chris-Has.github.io/",
+    "summary": "Passionate ecologist and data scientist",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Sydney",
+      "countryCode": "AU",
+      "region": ""
     },
     "profiles": [
       {
         "network": "Twitter",
         "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "url": "www.linkedin.com/in/chris-hasselerharm"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "AirSeed Technologies",
+      "position": "Data Scientist",
+      "url": "https://airseedtech.com/",
+      "startDate": "2022-02-28",
+      "endDate": "Current",
+      "summary": "Leveraging drone tech, data analysis, and artificial intelligence to improve restoration projects at scale.",
+      "highlights": ["Developing software to assist our carbon team assess carbon opportunities in seconds rather than days."]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Paws A Moment and Rescue",
+      "position": "Carer",
+      "url": "https://www.facebook.com/pawsamomentandrescue/",
+      "startDate": "2016-04-01",
+      "endDate": "Current",
+      "summary": "I have helped raise and adopt out hundreds of kittens responsibly and ethically.",
+      "highlights": ["Housing a cat giving birth for the first time", "Creating business graphics and merchandise"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Technology Sydney",
+      "location": "Sydney, Australia",
+      "url": "https://www.uts.edu.au/",
+      "area": "Environmental Science",
+      "studyType": "BEnvSc(Hons)",
+      "startDate": "2015-03-01",
+      "endDate": "2018-11-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
     }
   ],
   "awards": [
