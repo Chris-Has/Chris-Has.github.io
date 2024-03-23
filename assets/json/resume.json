@@ -2,7 +2,7 @@
   "basics": {
     "name": "Albert Einstein",
     "label": "Data Scientist",
-    "image": "1708914933362.jpg",
+    "image": "https://github.com/Chris-Has/Chris-Has.github.io/blob/f3c16aec9bb6cd23be0487ea062ed4473a4cbdb0/1708914933362.jpg",
     "email": "chrisdh08@gmail.com",
     "phone": "",
     "url": "https://Chris-Has.github.io/",
@@ -16,8 +16,8 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
+        "network": "LinkedIn",
+        "username": "chris-hasselerharm",
         "url": "www.linkedin.com/in/chris-hasselerharm"
       }
     ]
